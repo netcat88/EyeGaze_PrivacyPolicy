@@ -2,7 +2,7 @@
 
 **Last update: 7 February 2017**
 
-This the privacy policy for the official **[Eye Gaze]**(https://play.google.com/store/apps/details?id=it.unitn.mag.tlc.eyeGaze) application. Eye Gaze is developed by netcat88 registered Android Developer and published Google Play Store platform. All intellectual property rights are owned by the Developer.
+This the privacy policy for the official [**Eye Gaze**](https://play.google.com/store/apps/details?id=it.unitn.mag.tlc.eyeGaze) application. Eye Gaze is developed by netcat88 registered Android Developer and published Google Play Store platform. All intellectual property rights are owned by the Developer.
 
 The Developer respects your privacy rights and recognizes the importance of protecting any information collected about you. This Privacy Policy defines if and how cpersonal and not-personal information are collected and/or used in relation to the application ("app") Eye Gaze.
 
@@ -36,6 +36,6 @@ Application Logs are NOT stored, nor they include any sensitive information.
 
 Eye Gaze does NOT share any information
 
-## CONTACT US
+## CONTACTS
 
 If you have any questions or concerns about this privacy policy or any privacy issues, please email us at [netcat88@gmail.com](mailto:netcat88@gmail.com)
